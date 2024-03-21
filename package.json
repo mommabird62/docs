@@ -161,7 +161,7 @@
     "strip-ansi": "^6.0.0",
     "supertest": "^4.0.2",
     "url-template": "^2.0.8",
-    "webpack-dev-middleware": "^3.7.2",
+    "webpack-dev-middleware": "^7.1.1",
     "website-scraper": "^4.2.0",
     "xlsx-populate": "^1.21.0"
   },
